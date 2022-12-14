@@ -1,11 +1,11 @@
 # Hi there, I'm Agustín Perés 👋
 
-### **`Developer`**
+### **`Fullstack Developer`**
 
 -  I'm currently learning Typescript.
--  2022 Goals: Gain a deeper understanding on web/mobile apps. Start learning more about web3 and machine learning.
+-  2022 Goals: Gain a deeper understanding on web/mobile apps. Start learning more about CI/CD, Typescript, GraphQL, PostgreSQL, Algorithms and Data Structures.
 -  I love to go to the gym, ride my bike and spend quality time with family and friends.
-- Background in economic sciences
+-  Background in economic sciences
 
 ---
 
