@@ -1,10 +1,10 @@
 # Hi there, I'm Agustín Perés 👋
 
-### **`Fullstack Developer`**
+### **`Frontend Developer`**
 
--  2023 Goals: Gain a deeper understanding on web/mobile apps. Start learning more about CI/CD, Typescript, GraphQL, PostgreSQL, Algorithms and Data Structures.
+-  Goals: Gain a deeper understanding on web/mobile apps. I am looking to expand my skills in CI/CD, PostgreSQL, Algorithms, Data Structures and Design Patterns.
 -  I love to go to the gym, ride my bike and spend quality time with family and friends.
--  Background in economic sciences
+-  Background in economic sciences.
 
 ---
 
