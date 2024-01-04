@@ -1,6 +1,6 @@
 # Hi there, I'm Agustín Perés 👋
 
-### **`Frontend Developer`**
+### **`Developer`**
 
 -  Goals: Gain a deeper understanding on web/mobile apps. I am looking to expand my skills in CI/CD, PostgreSQL, Algorithms, Data Structures and Design Patterns.
 -  I love to go to the gym, ride my bike and spend quality time with family and friends.
